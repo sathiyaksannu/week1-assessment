@@ -1,7 +1,7 @@
 # Week 1 Assessment
 
 ## Project Overview
-This project analyzes employee data using Python, Pandas, NumPy and Matplotlib.
+This project provides employee salary and city-wise analysis using Python libraries.
 
 ## Project Structure
 - data/ - Employee CSV data
