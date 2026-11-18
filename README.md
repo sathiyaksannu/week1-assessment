@@ -1,7 +1,6 @@
 # Week 1 Assessment
 
-## Project Overview
-This project analyzes employee data using Python, Pandas, NumPy and Matplotlib.
+## Project OverviewThis project analyzes company employee records using Python and data analysis tools.
 
 ## Project Structure
 - data/ - Employee CSV data
