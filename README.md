@@ -21,3 +21,11 @@ This project analyzes employee data using Python, Pandas, NumPy and Matplotlib.
 3. Highest average salary department: Finance
 4. Chennai has the highest employee count with 4 employees.
 5. Lowest average salary department: Sales
+
+## Technologies Used
+- Python 3.13
+- Pandas
+- NumPy
+- Matplotlib
+- Jupyter Notebook
+- Git and GitHub
