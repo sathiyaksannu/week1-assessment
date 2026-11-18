@@ -1,7 +1,8 @@
 # Week 1 Assessment
 
+
 ## Project Overview
-This project provides employee salary and city-wise analysis using Python libraries.
+This project analyzes company employee records and provides salary and city-wise analysis using Python libraries.
 
 ## Project Structure
 - data/ - Employee CSV data
