@@ -1,6 +1,8 @@
 # Week 1 Assessment
 
-## Project OverviewThis project analyzes company employee records using Python and data analysis tools.
+
+## Project Overview
+This project analyzes company employee records and provides salary and city-wise analysis using Python libraries.
 
 ## Project Structure
 - data/ - Employee CSV data
@@ -20,3 +22,11 @@
 3. Highest average salary department: Finance
 4. Chennai has the highest employee count with 4 employees.
 5. Lowest average salary department: Sales
+
+## Technologies Used
+- Python 3.13
+- Pandas
+- NumPy
+- Matplotlib
+- Jupyter Notebook
+- Git and GitHub
